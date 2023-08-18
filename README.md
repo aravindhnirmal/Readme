@@ -1,17 +1,23 @@
-# Hi there! 🫡
+# Hi there! 🌟
 
-Welcome to my GitHub profile! I'm Aravind Nirmal, a software developer passionate about coding and creating innovative solutions.
+I'm Aravind Nirmal, an engineering student with a creative mindset and a passion for coding. I'm always excited to explore new horizons and create innovative solutions.
+
+## About Me
+
+- 👯 More of a creative person!
+- 🥅 Engineering student.
+- 🧑🏼‍💻 Knows to code in Python
+- 🌎 Looking forward to discovering new things
+- 👨🏽‍🎓 Engineering student
+- 🎯 Focusing my interests
 
 ## GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aravindhnirmal&show_icons=true&theme=dark)
 
-
-
 ## GitHub Activity Graph
 
 [![Aravind's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aravindhnirmal)](https://github.com/aravindhnirmal/github-readme-activity-graph)
-
 
 ## GitHub Trophies
 
