@@ -15,8 +15,8 @@ I'm Aravind Nirmal, an engineering student with a creative mindset and a passion
 
 - ![GitHub Stars](https://img.shields.io/github/stars/aravindhnirmal?style=social)
 - ![Profile Views](https://komarev.com/ghpvc/?username=aravindhnirmal)
-- [![LinkedIn Cover](https://raw.githubusercontent.com/aravindhnirmal/aravindhnirmal/main/linkedin_cover.png)](https://www.linkedin.com/in/nirmal-aravind-5405a81bb)
-- [![Instagram Cover](https://raw.githubusercontent.com/aravindhnirmal/aravindhnirmal/main/instagram_cover.png)](https://www.instagram.com/nirmal_aravind_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirmal-aravind-5405a81bb)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nirmal_aravind_/)
 
 ## GitHub Stats
 
