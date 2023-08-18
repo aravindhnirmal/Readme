@@ -1,2 +1,4 @@
 Hi There 🫡
-https://github-readme-stats.vercel.app/api?username=aravindnirmal&show_icons=true
+
+
+[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=<github-username>)](https://github.com/aravindhnirmal/github-readme-stats)
