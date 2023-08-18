@@ -1,20 +1,27 @@
-Hi There 🫡
+# Hi there! 🫡
+
+Welcome to my GitHub profile! I'm Aravind Nirmal, a software developer passionate about coding and creating innovative solutions.
+
+## GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aravindhnirmal&show_icons=true&theme=dark)
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=aravindhnirmal)](https://github.com/aravindhnirmal/github-readme-stats)
+
+## GitHub Activity Graph
+
+[![Aravind's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aravindhnirmal)](https://github.com/aravindhnirmal/github-readme-activity-graph)
 
 
+## GitHub Trophies
 
+Celebrate my GitHub achievements with these trophies:
 
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aravindhnirmal)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub Stars](https://img.shields.io/github/stars/aravindhnirmal?style=social)
-![Profile Views](https://komarev.com/ghpvc/?username=aravindhnirmal)
+## Connect with Me
 
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirmal-aravind-5405a81bb)
-
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aravindhnirmal)
-
-
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/nirmal_aravind_/)
+- ![GitHub Stars](https://img.shields.io/github/stars/aravindhnirmal?style=social)
+- ![Profile Views](https://komarev.com/ghpvc/?username=aravindhnirmal)
+- [LinkedIn](https://www.linkedin.com/in/nirmal-aravind-5405a81bb)
+- [Instagram](https://www.instagram.com/nirmal_aravind_/)
