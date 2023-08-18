@@ -29,5 +29,7 @@ Celebrate my GitHub achievements with these trophies:
 
 - ![GitHub Stars](https://img.shields.io/github/stars/aravindhnirmal?style=social)
 - ![Profile Views](https://komarev.com/ghpvc/?username=aravindhnirmal)
-- [LinkedIn](https://www.linkedin.com/in/nirmal-aravind-5405a81bb)
-- [Instagram](https://www.instagram.com/nirmal_aravind_/)
+-[![LinkedIn Cover](https://raw.githubusercontent.com/aravindhnirmal/aravindhnirmal/main/linkedin_cover.png)](https://www.linkedin.com/in/nirmal-aravind-5405a81bb)
+
+- [![Instagram Cover](https://raw.githubusercontent.com/aravindhnirmal/aravindhnirmal/main/instagram_cover.png)](https://www.instagram.com/nirmal_aravind_/)
+
