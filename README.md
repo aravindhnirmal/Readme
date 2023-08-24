@@ -1,6 +1,6 @@
 # Hi there! 🌟
 
-I'm Aravind Nirmal, an engineering student with a creative mindset and a passion for coding. I'm always excited to explore new horizons and create innovative solutions.
+I'm  Nirmal, an engineering student with a creative mindset and a passion for coding. I'm always excited to explore new horizons and create innovative solutions.
 
 ## About Me
 
@@ -8,7 +8,6 @@ I'm Aravind Nirmal, an engineering student with a creative mindset and a passion
 - 🥅 Engineering student.
 - 🧑🏼‍💻 Knows how to code in Python
 - 🌎 Looking forward to discovering new things
-- 👨🏽‍🎓 Engineering student
 - 🎯 Focusing on my interests
 
 ## Connect with Me
@@ -30,12 +29,5 @@ I'm Aravind Nirmal, an engineering student with a creative mindset and a passion
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aravindhnirmal&layout=compact)
 
-## GitHub Activity Graph
 
-[![Aravind's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aravindhnirmal)](https://github.com/aravindhnirmal/github-readme-activity-graph)
 
-## GitHub Trophies
-
-Celebrate my GitHub achievements with these trophies:
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aravindhnirmal)](https://github.com/ryo-ma/github-profile-trophy)
