@@ -6,7 +6,7 @@ I'm  Nirmal, an engineering student with a creative mindset and a passion for co
 
 - 👯 More of a creative person!
 - 🥅 Engineering student.
-- 🧑🏼‍💻 Knows how to code in Python
+- 🧑🏼‍💻 Knows how to code in Python ,Java
 - 🌎 Looking forward to discovering new things
 - 🎯 Focusing on my interests
 
